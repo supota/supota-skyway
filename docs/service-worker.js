@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/videochat/precache-manifest.5be6323e0b2b684c2153c30009a65360.js"
+  "/videochat/precache-manifest.43b0a5a6f43c1001f5cb9d8f7346f5b0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "videochat"});
